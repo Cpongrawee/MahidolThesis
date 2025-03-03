@@ -1,0 +1,21 @@
+ \contentsline {chapter}{}{\textbf {Page}}{}
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}{Doc-Start}%
+\contentsline {chapter}{ABSTRACT}{iv}{Doc-Start}%
+\contentsline {chapter}{LIST OF TABLES}{vii}{Doc-Start}%
+\contentsline {chapter}{LIST OF FIGURES}{viii}{Doc-Start}%
+\contentsline {chapter}{\numberline {\MakeTextUppercase {Chapter}\ I}\MakeTextUppercase {Introduction}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}A tribute to the former contributors}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}How to use the LaTeX template}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Folder for source TEX files}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Folder for figures}{1}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Rendering the PDF}{2}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Lessons learnt from the past}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Subsections right after section}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Numbered and non-numbered lists}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Subsubsections, equations, tables and figures}{4}{subsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.3.1}Subsubsection}{4}{subsubsection.1.3.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.3.2}Equations}{4}{subsubsection.1.3.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3.3}Tables}{4}{subsubsection.1.3.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.3.4}Figures}{5}{subsubsection.1.3.3.4}%
+\contentsline {section}{\numberline {1.4}Words of goodbye}{5}{section.1.4}%
+\contentsline {chapter}{BIOGRAPHY}{6}{section.1.4}%
